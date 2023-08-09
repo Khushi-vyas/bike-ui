@@ -1,5 +1,8 @@
 Tried creating this bike UI
 
 
-https://github.com/Khushi-vyas/bike-ui/assets/76108764/a31863d0-0274-4daf-977f-de6436c1917c
+
+
+https://github.com/Khushi-vyas/bike-ui/assets/76108764/67b1b378-b56c-44d2-ba06-1b74ff106b9f
+
 
